@@ -16,3 +16,15 @@ This paper has been accepted in IEEE BIBM 20221 and also extented into an sci pa
           year={2021},
           pages={2407-2414}
         }
+
+
+        @article{Lin2022KIEGLFNAU,
+          title={KIEGLFN: A unified acne grading framework on face images},
+          author={Yi Lin and Jingchi Jiang and Zhaoyang Ma and Dongxin Chen and Yi Guan and Haiyan You and Xue Cheng and Bingmei Liu and Gongning Luo},
+          journal={Computer methods and programs in biomedicine},
+          year={2022},
+          volume={221},
+          pages={
+                  106911
+                }
+        }
